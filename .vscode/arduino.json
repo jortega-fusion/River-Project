@@ -1,0 +1,6 @@
+{
+    "sketch": "soil_sensor_sketch.ino",
+    "output": "build",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:mini"
+}
