@@ -1,4 +1,4 @@
 # River-Project
 Sofia Veronesi
-Jonathon Ortega
+Jonathan Ortega
 
